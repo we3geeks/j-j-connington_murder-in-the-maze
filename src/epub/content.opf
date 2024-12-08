@@ -41,8 +41,8 @@
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">After twin brothers are found murdered in a maze on the grounds of their estate, the local Chief Constable must solve the crimes and bring the perpetrator(s) to justice.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;After twin brothers are found murdered on the same afternoon in the hedge maze on the grounds of their country estate outside London, the local county’s Chief Constable must solve the murders and bring the perpetrator(s) to justice.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Murder in the Maze&lt;/i&gt; was the first of seventeen detective novels by British chemist and part-time author Alfred Walter Stewart under the pseudonym of &lt;a href="https:https://github.com/standardebooks/j-j-connington"&gt;J. J. Connington&lt;/a&gt;. &lt;i&gt;Murder in the Maze&lt;/i&gt; was first published in Britain in 1927 and introduces his best-known detective character, Chief Constable Sir Clinton Driffield. The author’s academic and scientific background add depth and detail throughout the story.&lt;/p&gt;
+			&lt;p&gt;After twin brothers Neville and Roger Shandon are found murdered on the same afternoon in the hedge maze on the grounds of their country estate outside London, the local county’s Chief Constable must solve the murders and bring the perpetrator(s) to justice.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Murder in the Maze&lt;/i&gt; was the first of seventeen detective novels by &lt;a href="https:https://github.com/standardebooks/j-j-connington"&gt;J. J. Connington&lt;/a&gt;, the pseudonym used by British chemist and part-time author Alfred Walter Stewart. &lt;i&gt;Murder in the Maze&lt;/i&gt; was first published in Britain in 1927 and introduces his best-known detective character, Chief Constable Sir Clinton Driffield. The author’s academic and scientific background add depth and detail throughout the story.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/71351</dc:source>
